@@ -1,16 +1,9 @@
-# my_app
+# flutter-random-words
 
-A new Flutter project.
+See and save your favorite random words on this simple flutter app.
 
-## Getting Started
+|Words|Saved words|
+|---|---|
+|<img width="469" alt="Screen Shot 2021-04-21 at 17 29 06" src="https://user-images.githubusercontent.com/49761746/115616861-133eb380-a2c7-11eb-8c8a-a6f51a479a8c.png">|<img width="469" alt="Screen Shot 2021-04-21 at 17 28 54" src="https://user-images.githubusercontent.com/49761746/115616840-0de16900-a2c7-11eb-93ed-a2debcf52309.png">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
